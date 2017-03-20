@@ -14,11 +14,11 @@ body {
 	color: #4B4B4B;
 }
 
-#header-{
+/*#header{
 	color: #fff;
 	background-color: #800;
-	background-image: url("../img/header.gif");
-}
+	background-image: url("../img/logo.png") no-repeat;
+}*/
 
 #login {
 	color: #fff;
