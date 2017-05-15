@@ -10,8 +10,8 @@ h1 {
   
 }
 h2 {
-  font-size:30px;
-  font-family:Arial;
+  font-size:45px;
+  font-family:Verdana;
   text-align:center;
   
   
@@ -19,15 +19,17 @@ h2 {
   
 }
 body {
-  background:blue;
-  font-family:Arial;
+  background:navy;
+  font-family:Verdana;
   color:white;
   
   
   
 }
 img {
-  width:550px;
+  width:500px;
+  border:8px solid gold;
+  border-radius:50px;
   
   
   
