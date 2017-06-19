@@ -31,6 +31,8 @@ img {
   border:8px solid gold;
   border-radius:50px;
   
-  
-  
 }
+
+a:visited {
+  color:green;
+  
