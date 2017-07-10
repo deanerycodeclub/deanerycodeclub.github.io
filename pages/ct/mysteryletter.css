@@ -1,0 +1,45 @@
+span
+{
+	display: inline-block; 
+	margin: 8px; 
+	box-shadow: 1px 2px 2px grey; 
+}
+
+body {
+  background-color: white;
+	padding: 30px;
+	max-width: 350px;
+	margin: auto;
+}
+
+.newspaper {
+	background-image:url('canvas.png');
+	font-family: "Patrick Hand SC", Times, serif;
+	font-weight: bold;
+}
+
+.magazine1  {
+  background-image:url('rough-paper.png');
+  color:white;
+  font-family: Verdana;
+	font-weight: 900;
+	text-transform: uppercase; 
+}
+
+.magazine2 {
+	background-image: url('');
+  color: fuchsia;
+  font-family: Verdana;
+	font-weight: 900;
+}
+.Comic {
+  background-image:url('computer printout.png');
+  font-size: 23px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+.magazine3 {
+	background-image: url('');
+  color: fuchsia;
+  font-family: Verdana;
+	font-weight: 900;
+}
