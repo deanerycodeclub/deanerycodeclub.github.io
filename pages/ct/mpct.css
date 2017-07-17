@@ -1,0 +1,21 @@
+h1 {
+  color: indigo;
+  font-family: gill sans mt;
+}
+
+h2 {
+  color: lime ;
+  font-family: arial;
+}
+
+p {
+  color:black  ;
+  font-family: arial;
+  font-size:15 ;
+}
+
+
+body {
+ background-color: yellow  ;
+
+}
